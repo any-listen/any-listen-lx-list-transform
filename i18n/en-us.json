@@ -1,0 +1,11 @@
+{
+  "description": "Convert LX Music list data to Any Listen list data",
+  "failed_to_transform_list": "Conversion failed: {msg}",
+  "list_transform": "Convert LX Music list data",
+  "list_transform_description": "Convert LX Music’s list backup data to Any Listen",
+  "list_transformed_successfully": "Conversion completed",
+  "save": "Save",
+  "select_lx_list_file": "Select LX Music List Backup File",
+  "select_save_path": "Choose where to save converted data",
+  "unsupported_file_type": "Unsupported file type, please make sure the file comes from a list backup file or single list file exported by LX Music"
+}

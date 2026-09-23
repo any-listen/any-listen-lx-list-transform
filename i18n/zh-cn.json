@@ -1,0 +1,11 @@
+{
+  "description": "将 LX Music 的列表数据转换成 Any Listen 列表数据",
+  "failed_to_transform_list": "转换失败：{msg}",
+  "list_transform": "转换 LX Music 列表数据",
+  "list_transform_description": "将 LX Music 的列表备份数据转换到 Any Listen",
+  "list_transformed_successfully": "转换完成",
+  "save": "保存",
+  "select_lx_list_file": "选择 LX Music 列表备份文件",
+  "select_save_path": "选择转换数据保存位置",
+  "unsupported_file_type": "不支持的文件类型，请确保文件来自 LX Music 导出的列表备份文件或单列表文件"
+}
