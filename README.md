@@ -1,5 +1,3 @@
-# LX Music List Transform
-
 使用方法：
 
 1. 在搜索框中输入 `>`，进入命令模式。

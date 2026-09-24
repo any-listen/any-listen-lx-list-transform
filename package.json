@@ -5,9 +5,8 @@
     "any-listen",
     "any-listen-extension"
   ],
-  "homepage": "https://github.com/any-listen/any-listen-lx-list-transform#readme",
+  "homepage": "https://github.com/any-listen/any-listen-extension-lx-list-transform#readme",
   "license": "Apache-2.0",
-  "author": "lyswhut",
   "type": "module",
   "scripts": {
     "build": "extension-kit --build",
